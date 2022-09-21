@@ -1,4 +1,4 @@
-//CYBER-X  DARKALPHAXTEAM ◎◎◎ https://github.com/darkalphaxteam\\
+//CYBER-X  DARKALPHAXTEAM ◎◎◎ https://github.com/akash20044\\
 //══════════════THANKS FOR CHEEMS BOT MD (DGNEON)═ALL THE CREADITS GOES TO HIM═════════════\\
 // EXAM ඉවර උනාම ඉතුරු ටික දෙන්නම් 😓😓😓 GOOD LUCK ALL\\
 const fs = require('fs')
@@ -55,7 +55,7 @@ global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🤖" //ur theme emoji
 global.packname = "Toxic Surya Test Bot" //ur sticker watermark packname
 global.author = "TOXIC SURYA" //ur sticker watermark author
-global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
+global.footer = "® toxic-surya ᴇᴅɪᴛɪᴏɴ"
 global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
